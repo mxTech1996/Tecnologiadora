@@ -41,246 +41,205 @@ export const footerData = [
   },
 ];
 
-export const dataSite = {
-  name: 'Teknologydls',
-  url: 'https://es.wiktionary.org/wiki/hol',
-  telephone: '5573360596',
-  email: 'admteknolo@emailsecure.lat',
-  address:
-    'AVENIDA SAYIL OFICINA 1201, SM 6, BENITO JUAREZ, CANCUN, QUINTANA ROO, C.P. 77500',
-  description:
-    'We specialize in providing high-quality products at competitive prices to retailers, resellers, and businesses of all sizes. Our extensive catalog includes laptops, desktops, monitors, printers, storage devices, networking equipment, peripherals, and a wide range of computer accessories from leading brands.',
-  subtitle:
-    'Your Reliable Partner in Wholesale Computer Equipment and Accessories',
-  image_hero:
-    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/dols._1.jpg',
-  image_hero2:
-    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/dols_2.jpg',
-  iconImage:
-    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/teknolo-gy-dls-sa-de-cv-high-resolution-logo.png',
-  info: [
-    {
-      title: 'Scope of Services',
-      description:
-        'The scope of services provided with enterprise IT products typically includes a wide range of technical, operational, and support activities aimed at ensuring optimal performance, security, scalability, and business value.',
-    },
-    {
-      title: 'Types and Features',
-      description:
-        'Keyboards,Headsets and Headphones, Webcams,External Hard Drives and SSDs,USB Hubs and Docking Stations,Printers and Scanners,External Optical Drives,Cooling Pads and External Fans, Power Strips and UPS ,Laptop Stands and Mounts,Graphic Tablets.',
-    },
-    {
-      title: 'Clients',
-      description:
-        "We proudly serve a diverse range of clients, including electronics retailers, IT resellers, corporate buyers, educational institutions, and government agencies. Our clients trust us for our product reliability, competitive pricing, and dedicated support. Whether you're managing a tech store, outfitting an office, or supporting a large scale IT project, we are here to supply the technology solutions you need.",
-    },
-    {
-      title: 'Bulk Hardware Procurement',
-      description:
-        'We offer streamlined sourcing and wholesale distribution of computer hardware, including desktops, laptops, components, and peripherals. Our service ensures fast order fulfillment, competitive pricing, and access to top tech brands for your business needs.',
-    },
-    {
-      title: 'Target customers',
-      description:
-        'Our primary customers include IT resellers, computer and electronics retailers, corporate procurement teams, educational institutions, and government agencies. We cater to businesses looking for reliable wholesale partners to supply large volumes of computer equipment and accessories.',
-    },
-  ],
-  services: [
-    {
-      title: 'Bulk Product Sourcing',
-      description:
-        'Access a wide range of computer hardware and accessories from top brands at wholesale prices, ideal for resellers and large-scale buyers.',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/dols_3.jpg',
-    },
-    {
-      title: 'Custom Hardware Bundling',
-      description:
-        'We offer tailored hardware packages including desktops, laptops, peripherals, and networking gear assembled to meet your specific needs.',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/d.ol_4_jpg.jpg',
-    },
-    {
-      title: 'Volume Discounts & Tiered Pricing',
-      description:
-        'Benefit from competitive volume-based pricing structures that reward bulk purchases and long-term partnerships.',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/dol_5_.jpg',
-    },
-    {
-      title: 'Fast Nationwide Shipping',
-      description:
-        'Enjoy quick and reliable delivery services across the country to ensure your business operations are never delayed.',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/dol._6.jpg',
-    },
-    {
-      title: 'Dedicated Account Management',
-      description:
-        'Our expert account managers provide personalized support, helping you with product selection, order tracking, and after sales service.',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/dol._7.jpg',
-    },
-  ],
-  references: [
-    {
-      name: 'TechZone Electronics',
-      description:
-        "Excellent service and fast shipping! We've been ordering computer parts in bulk for our retail stores, and the quality has always been consistent. Highly recommended for any business looking for a reliable supplier.",
-      rating: 5,
-      image: null,
-    },
-    {
-      name: 'Lisa M., IT Manager at SmartNet Solutions',
-      description:
-        'The custom hardware bundles saved us a lot of time and hassle. Everything arrived pre-configured and ready to deploy across our offices. Great customer support, too!',
-      rating: 5,
-      image: null,
-    },
-    {
-      name: 'John Rivera, Procurement Officer, Westview School District',
-      description:
-        "We’ve worked with several suppliers, but this one stands out. Competitive prices, quick responses, and trustworthy delivery timelines. A perfect fit for our school district's tech needs.",
-      rating: 5,
-      image: null,
-    },
-    {
-      name: 'DigitalWorks Solutions',
-      description:
-        'We placed a large order of laptops and networking gear, and the entire process was smooth from start to finish. Our account manager was super helpful and responsive.',
-      rating: 5,
-      image: null,
-    },
-    {
-      name: 'Amy C., Owner of ConnectTech Resellers',
-      description:
-        'Great experience every time. The tiered pricing makes it easy for small businesses like ours to scale affordably. This is now our go-to source for all our IT hardware.',
-      rating: 5,
-      image: null,
-    },
-  ],
-  products: [
-    {
-      id: 851,
-      name: 'Desktop Computers',
-      category: null,
-      description:
-        'A desktop computer is a personal computing device designed for regular use at a single location, typically on or under a desk. It consists of separate components including a central processing unit (CPU), monitor, keyboard, and mouse. Desktop computers are known for their power, upgradeability, and cost-efficiency compared to laptops.',
-      price: '499.99',
-      stock: 100,
-      content: '',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/dol_8_.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 852,
-      name: 'Laptop Computers',
-      category: null,
-      description:
-        'A laptop computer (or notebook) is a portable personal computer with an integrated screen, keyboard, trackpad, battery, and internal hardware. Laptops are designed for mobility and flexibility, allowing users to work, study, or play from virtually anywhere, PortabilityLightweight and compact design,Ideal for travel, remote work, and on the go use, Built in battery allows operation without being plugged in.',
-      price: '599.99',
-      stock: 100,
-      content: '',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/dol_9.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 853,
-      name: 'Computer Monitors',
-      category: null,
-      description:
-        'A computer monitor is an output device that displays the visual interface of a computer system. It shows information such as software applications, multimedia, documents, and games, serving as the primary visual interface between the user and the computer,Keyboards and Mice Wired and wireless input devices for everyday and professional use.',
-      price: '699.99',
-      stock: 100,
-      content: '',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/dol10.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 854,
-      name: 'Keyboards and Mice',
-      category: null,
-      description:
-        'Keyboards and mice are essential input devices used to interact with desktop and laptop computers. They come in various styles and configurations to suit different user preferences and computing needs,Types of Keyboards,Mechanical Keyboards: Use individual mechanical switches for each key; known for tactile feedback and durability,Membrane Keyboards: Use a pressure pad system; quieter and more affordable,Scissor-Switch Keyboards,Common in laptops; low,profile and quiet,Ergonomic Keyboards: Designed to reduce strain on hands and wrists; ideal for long typing sessions.',
-      price: '699.99',
-      stock: 100,
-      content: '',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/dol_11.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 855,
-      name: 'Internal Components',
-      category: null,
-      description:
-        'Internal components are the essential hardware elements inside a computer that perform processing, storage, graphics rendering, and system operation. These components work together to enable the functioning of any desktop, laptop, or server,',
-      price: '899.99',
-      stock: 100,
-      content: '',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/doll_1_2.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 856,
-      name: 'Networking Equipment',
-      category: null,
-      description:
-        'Networking equipment refers to hardware devices used to connect computers, servers, printers, and other devices within a network. These devices facilitate communication, data transfer, and internet access in homes, businesses, and data centers.Connects multiple devices on the same local network (LAN) and intelligently forwards data to the correct device.',
-      price: '899.99',
-      stock: 100,
-      content: '',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/dol13.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 857,
-      name: 'External Storage Devices',
-      category: null,
-      description:
-        'External storage devices are hardware units used to store, back up, and transfer data independently from a computer’s internal storage. They connect to computers and other devices via USB, Thunderbolt, or wireless connections, and are essential for expanding storage, sharing files, and safeguarding important data.',
-      price: '999.99',
-      stock: 100,
-      content:
-        'Personal Backup,Photos, documents, and system images,Business Storage: Project files, client data, financial records,Creative Work,Video editing, photography, audio files (SSD preferred).',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/dol_14.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 858,
-      name: 'Printers and Scanners',
-      category: null,
-      description:
-        'Printers and scanners are essential peripherals for converting digital documents into physical copies and vice versa. Printers produce hard copies, while scanners digitize physical documents for storage, editing, or sharing,Home Use,Printing documents, school work, photos,Office Use, High-speed, high volume printing of reports, invoices, and marketing materials,Creative Professionals: High-resolution color photo and graphic printing.',
-      price: '1099.99',
-      stock: 100,
-      content: '',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/dol_15.jpg',
-      image2: null,
-      image3: null,
-    },
-  ],
-  categories: [],
-};
+export const dataSite = 
+{
+    "name": "Tecnologiadora",
+    "url": "http://www.industriadora.lat",
+    "telephone": "5528953915",
+    "email": "admdora@emailsecure.lat",
+    "address": "AV LOPEZ PORTILLO MZA 3 LTE 9, D 2, SM 66, BENITO JUAREZ, CANCUN, QUINTANA ROO, CP 77510",
+    "description": "We specialize in delivering expert computing solutions tailored to meet the unique needs of businesses and individuals. Our team of experienced consultants offers a wide range of services, including IT strategy development, software and hardware integration, cybersecurity, cloud computing, data analysis, and technical support.",
+    "subtitle": "Innovative Computing Strategies for a Smarter Tomorrow",
+    "image_hero": "https://cms-webserver-statics.s3.amazonaws.com/media/websites/dora_1.jpg",
+    "image_hero2": "https://cms-webserver-statics.s3.amazonaws.com/media/websites/dora_2.jpg",
+    "iconImage": "https://cms-webserver-statics.s3.amazonaws.com/media/websites/tecnologia-e-industrial-dora-sa-de-cv-high-resolution-logo.png",
+    "info": [
+        {
+            "title": "Cloud Computing Solutions",
+            "description": "Migration, deployment, and management of cloud services (AWS, Azure, Google Cloud),Cybersecurity Consulting,Software Development & Integration."
+        },
+        {
+            "title": "Clients",
+            "description": "Startups,Corporate Enterprises,Educational Institutions,Government Agencies."
+        },
+        {
+            "title": "Service coverage",
+            "description": "Local and Regional Support: Providing on site and remote IT consulting services within major metropolitan areas and surrounding regions,National Reach, Delivering scalable solutions to businesses and organizations across the entire country, adapting to diverse market needs."
+        },
+        {
+            "title": "Materials",
+            "description": "Advanced Software Platforms,Utilization of industry leading software such as Microsoft Azure, AWS, Google Cloud, VMware, and Docker,Cutting-Edge Hardware: Deployment and integration of servers, networking equipment, and workstations from trusted brands like Cisco, Dell, HP, and Lenovo, Security Tools: Implementation of firewalls, antivirus solutions, encryption technologies, and monitoring systems to safeguard your data."
+        },
+        {
+            "title": "Service Timelines",
+            "description": "we understand that timely delivery is critical to your business success. Our service timelines are designed to be flexible and efficient, tailored to the scope and complexity of each project,Initial Consultation,Project Planning & Proposal,Implementation & Deployment."
+        }
+    ],
+    "services": [
+        {
+            "title": "Network Design & Optimization",
+            "description": "Creating efficient, secure, and scalable network infrastructures tailored to your business needs.",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/services/dora_3.jpg"
+        },
+        {
+            "title": "Data Analytics & Business Intelligence",
+            "description": "Turning raw data into actionable insights through advanced analytics and reporting tools.",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/services/dora_4.jpg"
+        },
+        {
+            "title": "IT Compliance & Risk Management",
+            "description": "Helping your organization meet industry standards and regulations while minimizing IT risks.",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/services/dora_5.jpg"
+        },
+        {
+            "title": "Cloud Migration & Management",
+            "description": "Assisting with smooth transition to cloud platforms and ongoing cloud resource management.",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/services/dora_6.jpg"
+        },
+        {
+            "title": "Disaster Recovery & Backup Solutions",
+            "description": "Designing and implementing reliable backup systems and recovery plans to protect your data.",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/services/dora_7_.jpg"
+        }
+    ],
+    "references": [
+        {
+            "name": "Vivian Viveros",
+            "description": "Their team is knowledgeable, responsive, and easy to work with.",
+            "rating": 5,
+            "image": null
+        },
+        {
+            "name": "Alejandra Duarte",
+            "description": "The cybersecurity solutions from Tecnologiadora gave us peace of mind knowing our data is protected against threats. Their expertise is unmatched.ñ",
+            "rating": 5,
+            "image": null
+        },
+        {
+            "name": "Mark D., IT Director at SafeNet Corp",
+            "description": "Tecnologiadora made our cloud migration smooth and efficient. Their support team was responsive and knowledgeable throughout the entire process.",
+            "rating": 5,
+            "image": null
+        },
+        {
+            "name": "Robert T., Operations Manager at QuickLogistics",
+            "description": "Tecnologiadora made our cloud migration smooth and efficient. Their support team was responsive and knowledgeable throughout the entire process.",
+            "rating": 5,
+            "image": null
+        },
+        {
+            "name": "Angy Montana",
+            "description": "Tecnologiadora’s ongoing technical support has been invaluable. They quickly address any issues and help keep our systems running smoothly every day.",
+            "rating": 5,
+            "image": null
+        }
+    ],
+    "products": [
+        {
+            "id": 843,
+            "name": "Enterprise Resource Planning (ERP) Systems",
+            "category": null,
+            "description": "An Enterprise Resource Planning (ERP) system is an integrated software platform used by organizations to manage and automate many of the core business processes across various departments. It enables the seamless flow of information between different functional areas such as finance, human resources, procurement, supply chain, manufacturing, sales, and customer service.",
+            "price": "499.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_8_.jpg",
+            "image2": null,
+            "image3": null
+        },
+        {
+            "id": 844,
+            "name": "Customer Relationship Management (CRM) Software",
+            "category": null,
+            "description": "Customer Relationship Management (CRM) software is a technology platform designed to help businesses manage interactions with current and potential customers. It centralizes customer information, tracks communications, automates sales and marketing processes, and improves customer service,Key Characteristics of CRM Software,Centralized Customer Database,\r\nCRM software stores all customer dat,contact details, purchase history, communication logs,in one place, providing a 360-degree view of the customer.",
+            "price": "599.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_9_.jpg",
+            "image2": null,
+            "image3": null
+        },
+        {
+            "id": 845,
+            "name": "Firewall and Network Security Appliances",
+            "category": null,
+            "description": "Firewall and Network Security Appliances are specialized hardware or software devices designed to protect computer networks by controlling incoming and outgoing network traffic based on predetermined security rules. They serve as a critical barrier between trusted internal networks and untrusted external networks, such as the internet, to prevent unauthorized access, cyber attacks, and data breaches,Key Characteristics of Firewall and Network Security Appliances,Traffic Filtering,Firewalls monitor network traffic and filter it based on rules that define allowed or blocked sources, destinations, protocols, and ports.",
+            "price": "799.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_10.jpg",
+            "image2": null,
+            "image3": null
+        },
+        {
+            "id": 846,
+            "name": "Cloud Storage Solutions",
+            "category": null,
+            "description": "Cloud Storage Solutions are online services that allow individuals and organizations to store, manage, and access data remotely over the internet. Instead of keeping data on local physical drives, cloud storage uses data centers hosted by third-party providers, offering scalable, flexible, and secure storage options,Scalability,Cloud storage services can easily scale up or down depending on the user’s needs, allowing businesses to pay only for the storage capacity they use.",
+            "price": "899.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_12.jpg",
+            "image2": null,
+            "image3": null
+        },
+        {
+            "id": 847,
+            "name": "Virtualization Software",
+            "category": null,
+            "description": "Virtualization software is technology that allows multiple virtual machines (VMs) or virtual environments to run on a single physical hardware system. It abstracts physical resources such as CPU, memory, storage, and network, enabling more efficient and flexible use of hardware by creating multiple isolated virtual instances,Resource Abstraction,Virtualization software abstracts and allocates physical hardware resources (CPU, memory, storage) to multiple virtual machines, allowing them to operate independently.",
+            "price": "999.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_13.jpg",
+            "image2": null,
+            "image3": null
+        },
+        {
+            "id": 848,
+            "name": "Backup and Disaster Recovery Systems",
+            "category": null,
+            "description": "Backup and Disaster Recovery (BDR) systems are comprehensive solutions designed to protect an organization’s data and IT infrastructure by creating copies of data (backups) and providing strategies and tools to restore systems quickly in the event of data loss, system failure, cyberattacks, or natural disasters.",
+            "price": "999.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_14.jpg",
+            "image2": null,
+            "image3": null
+        },
+        {
+            "id": 849,
+            "name": "Collaboration Tools",
+            "category": null,
+            "description": "Collaboration tools are software applications designed to facilitate communication, teamwork, and project management among individuals and teams, regardless of their physical location. These tools help streamline workflows, share information in real-time, and improve productivity by enabling seamless collaboration.",
+            "price": "1099.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_15.jpg",
+            "image2": null,
+            "image3": null
+        },
+        {
+            "id": 850,
+            "name": "Workstations and Servers",
+            "category": null,
+            "description": "Workstations and servers are high-performance computers designed for specialized tasks. Workstations are typically used by professionals for demanding computing tasks like design, engineering, and content creation, while servers are powerful machines that provide resources, data, and services to multiple users or client devices over a network.",
+            "price": "1099.99",
+            "stock": 100,
+            "content": "",
+            "product_type": "NORMAL",
+            "image": "https://cms-webserver-statics.s3.amazonaws.com/media/products/dora_16_.jpg",
+            "image2": null,
+            "image3": null
+        }
+    ],
+    "categories": []
+}
+ 
